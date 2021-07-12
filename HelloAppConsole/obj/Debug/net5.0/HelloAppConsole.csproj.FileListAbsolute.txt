@@ -1,0 +1,16 @@
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.exe
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.deps.json
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.runtimeconfig.json
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.runtimeconfig.dev.json
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\ref\HelloAppConsole.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\bin\Debug\net5.0\HelloAppConsole.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.AssemblyInfoInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.AssemblyInfo.cs
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\ref\HelloAppConsole.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsole\HelloAppConsole\obj\Debug\net5.0\HelloAppConsole.genruntimeconfig.cache
